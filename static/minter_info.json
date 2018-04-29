@@ -1,7 +1,7 @@
 [
   {
     "name": "Grandma",
-    "desc": "A nice grandma to calulate Ethash for you!"
+    "desc": "A Nice Grandma Who Calulates Ethash for You!"
   },
   {
     "name": "CPU Miner",
@@ -12,12 +12,16 @@
     "desc": "A NVVIDIA GPU"
   },
   {
+    "name": "ASIC Miner",
+    "desc": "A VITMAIN ASIC Miner"
+  },
+  {
     "name": "VETH Mining Pool",
-    "desc": "Mine VETH with Others\' Miners"
+    "desc": "Mine VETH with Thousands of Miners"
   },
   {
     "name": "Ransomware",
-    "desc": "Encrypt Victims\' Valuable Files and Demand a VETH Ransom."
+    "desc": "Encrypt Files and Demand a VETH Ransom"
   },
   {
     "name": "Trading Bot",
@@ -25,7 +29,7 @@
   },
   {
     "name": "Cryptocurrency Exchange",
-    "desc": "Earn Trading Fees from Trading Bots"
+    "desc": "Earn Trading Fees from Traders and Trading Bots"
   },
   {
     "name": "Cryptocurrency Exchange Hacker",
