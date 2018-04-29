@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Grandma",
+    "desc": "A nice grandma to calulate Ethash for you!"
+  },
+  {
+    "name": "CPU Miner",
+    "desc": "A VINTEL CPU"
+  },
+  {
+    "name": "GPU Miner",
+    "desc": "A NVVIDIA GPU"
+  },
+  {
+    "name": "VETH Mining Pool",
+    "desc": "Mine VETH with Others\' Miners"
+  },
+  {
+    "name": "Ransomware",
+    "desc": "Encrypt Victims\' Valuable Files and Demand a VETH Ransom."
+  },
+  {
+    "name": "Trading Bot",
+    "desc": "Automatically Trade and Earn VETH for You"
+  },
+  {
+    "name": "Cryptocurrency Exchange",
+    "desc": "Earn Trading Fees from Trading Bots"
+  },
+  {
+    "name": "Cryptocurrency Exchange Hacker",
+    "desc": "Hire a Hacker to Hack Other Exchanges"
+  },
+  {
+    "name": "VEOS ICO",
+    "desc": "VEOS, the VEthereum Killer"
+  },
+  {
+    "name": "VEthereum Simulator",
+    "desc": "A VEthereum Simulator built on VEthereum Blockchain"
+  }
+]
