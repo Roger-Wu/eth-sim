@@ -1,46 +1,77 @@
 [
   {
     "name": "Grandma",
-    "desc": "A Nice Grandma Who Calulates Ethash for You!"
+    "desc": "A Nice Grandma Who Calulates Hash for You!",
+    "img": "grandma.png"
   },
   {
     "name": "CPU Miner",
-    "desc": "A VINTEL CPU"
+    "desc": "A VINTEL CPU",
+    "img": "cpu-miner.png"
   },
   {
     "name": "GPU Miner",
-    "desc": "A NVVIDIA GPU"
+    "desc": "A NVVIDIA GPU",
+    "img": "gpu-miner.png"
   },
   {
     "name": "ASIC Miner",
-    "desc": "A VITMAIN ASIC Miner"
+    "desc": "A VITMAIN ASIC Miner",
+    "img": "asic-miner.jpg"
   },
   {
-    "name": "VETH Mining Pool",
-    "desc": "Mine VETH with Thousands of Miners"
+    "name": "Mining Pool",
+    "desc": "Mine VETH with Thousands of Miners",
+    "img": "mining-pool.jpg"
   },
   {
-    "name": "Ransomware",
-    "desc": "Encrypt Files and Demand a VETH Ransom"
+    "name": "VETH Exchange",
+    "desc": "Earn Trading Fees from VETH Traders",
+    "img": "exchange.png"
   },
   {
-    "name": "Trading Bot",
-    "desc": "Automatically Trade and Earn VETH for You"
+    "name": "Hacker",
+    "desc": "Earn VETH by Hacking Other Exchanges",
+    "img": "hacker.jpg"
   },
   {
-    "name": "Cryptocurrency Exchange",
-    "desc": "Earn Trading Fees from Traders and Trading Bots"
-  },
-  {
-    "name": "Cryptocurrency Exchange Hacker",
-    "desc": "Hire a Hacker to Hack Other Exchanges"
+    "name": "CvyptoKitties",
+    "desc": "Earn VETH by Selling Adorable Virtual Kitties",
+    "img": "kitty.png"
   },
   {
     "name": "VEOS ICO",
-    "desc": "VEOS, the VEthereum Killer"
+    "desc": "VEOS, the VEthereum Killer",
+    "img": "eos.jpg"
   },
   {
     "name": "VEthereum Simulator",
-    "desc": "A VEthereum Simulator built on VEthereum Blockchain"
+    "desc": "A VEthereum Simulator built on VEthereum Blockchain",
+    "img": "veth.png"
+  },
+  {
+    "name": "Grandma",
+    "desc": "A Nice Grandma Who Calulates Hash for You!",
+    "img": "grandma.png"
+  },
+  {
+    "name": "Grandma",
+    "desc": "A Nice Grandma Who Calulates Hash for You!",
+    "img": "grandma.png"
+  },
+  {
+    "name": "Grandma",
+    "desc": "A Nice Grandma Who Calulates Hash for You!",
+    "img": "grandma.png"
+  },
+  {
+    "name": "Grandma",
+    "desc": "A Nice Grandma Who Calulates Hash for You!",
+    "img": "grandma.png"
+  },
+  {
+    "name": "Grandma",
+    "desc": "A Nice Grandma Who Calulates Hash for You!",
+    "img": "grandma.png"
   }
 ]
